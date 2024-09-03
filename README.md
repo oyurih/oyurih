@@ -1,6 +1,5 @@
 ## Oi! Eu sou o Yuri Rocha
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyurih)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg">
